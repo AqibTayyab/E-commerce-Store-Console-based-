@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741685074 source:c:\aqib\projects\projects c++\code\e-commerce store (console-based)\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
